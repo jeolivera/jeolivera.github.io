@@ -7,12 +7,19 @@
 -->
 <html>
 	<head>
+		<!--redirect users to the https version of the website.-->
+  		<script type="text/javascript">
+		    var enforce = "sunlightlabs.github.io";
+		    if ((enforce == window.location.host) && (window.location.protocol != "https:"))
+		      window.location.protocol = "https";
+		</script>
 		<title>Jose Olivera</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<link rel="canonical" href="https://jeolivera.github.io" />
 		<link rel="apple-touch-icon" sizes="57x57" href="/images/apple-touch-icon-57x57.png?v=000BPKmMaw">
 		<link rel="apple-touch-icon" sizes="60x60" href="/images/apple-touch-icon-60x60.png?v=000BPKmMaw">
 		<link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon-72x72.png?v=000BPKmMaw">
