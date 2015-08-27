@@ -14,6 +14,11 @@
 		xsmall: '(max-width: 480px)'
 	});
 
+	$("a[href='#top']").click(function() {
+	  $("html, body").animate({ scrollTop: 0 }, "slow");
+	  return false;
+	});	
+
 	$(function() {
 
 		var $body = $('body'),
