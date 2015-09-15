@@ -2504,7 +2504,7 @@
 			bottom: 0;
 			left: 0;
 			padding: 2em;
-			position: relative;
+			position: absolute;
 			width: 100%;
 		}
 
@@ -2536,7 +2536,7 @@
 					border: 0;
 					color: #ffffff !important;
 					display: block;
-					padding: 0.85em 0;
+					padding: 0.65em 0;
 					text-decoration: none;
 				}
 
