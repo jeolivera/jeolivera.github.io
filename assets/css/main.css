@@ -2031,7 +2031,7 @@
 			}
 
 		.image.logo img {
-			max-width: 100%;
+			max-width: 25%;
 			height: auto;
 			width: auto\9; /* ie8 */
 		}
