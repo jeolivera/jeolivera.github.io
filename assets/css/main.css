@@ -2032,6 +2032,7 @@
 
 		.image.logo img {
 			display: block;
+			border-radius: 5px;
 			max-width: 25%;
 			height: auto;
 			width: auto\9; /* ie8 */
