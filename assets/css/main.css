@@ -2032,7 +2032,7 @@
 
 		.image.logo img {
 			display: block;
-			border-radius: 5px;
+			overflow: hidden;
 			max-width: 25%;
 			height: auto;
 			width: auto\9; /* ie8 */
