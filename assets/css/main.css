@@ -2032,7 +2032,9 @@
 
 		.image.logo img {
 			display: block;
-			width: 100%;
+			max-width: 25%;
+			height: auto;
+			width: auto\9; /* ie8 */
 		}
 
 /* List */
