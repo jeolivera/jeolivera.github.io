@@ -2,12 +2,10 @@
 (c) Jose Olivera
 
 Credits:
-	
-	Base Template:
-		HTML5UP.com
 
-	Demo Images:
-		Unsplash (unsplash.com)
+	Special 
+	thanks:
+		@ajlkn
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
